@@ -1,0 +1,327 @@
+header{
+    font-family: sans-serif;
+    color: lawngreen;
+}
+nav{
+    font-family: cursive;
+    color: lightseagreen;
+}
+aside{
+    font-family: fantasy;
+    color: maroon;
+}
+article{
+    font-family: monospace;
+    color: mediumblue;
+}
+section{
+    font-family: sans-serif;
+    color: orangered;
+}
+footer{
+    font-family: fantasy;
+    color: saddlebrown;
+}
+body.color{
+    text-align: center;
+    background-color: yellow;
+    text-shadow:5px 5px black;
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 0.5em;
+}
+
+body.color2{
+    background-color: yellow;
+    text-align: center;
+}
+div.rojo{
+    background-color: red;    
+    letter-spacing: 1.1em;
+    font-family: fantasy;
+    text-transform: uppercase;
+}
+div.azul{
+    background-color: blue;
+    color: white;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    text-align: justify;
+}
+blockquote.negro{
+    font-size: 30px;
+    text-align: center;
+    font-family: fantasy;
+    letter-spacing: 0.5em;
+}
+body.lista{
+    background-color: darkorange;
+    color: black;
+    font-family: cursive;
+    font-size: 20px;
+    width: 80%;
+    margin: auto;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow:2px 2px black;
+}
+body.imagenes{
+    text-align: justify;
+    margin: auto;
+    font-family: cursive;
+    font-size: 30px;
+    background-color: burlywood;
+    width: 80%;
+}
+p.imagenes{
+    text-align: justify;
+    width: 90%;
+    margin: auto;
+    background-color: yellow;
+    border-color: black;
+    border-style: solid;
+}
+body.miprimerapagina{
+    margin: auto;
+    font-family:monospace;
+    font-size: 20px;
+    width: 80%;
+    text-align: justify;  
+}
+h1.miprimerapagina{    
+    color: blue;
+    font-family: cursive;
+    letter-spacing: 0.5em;
+    text-align: center;
+}
+div.enlaces{
+    font-family: cursive;
+    color: darkblue;
+    letter-spacing: 0.5em;
+    font-size: 15px;
+    margin: auto;
+    width: 50%;
+}
+div.enlaces2{
+    border-style: solid;
+    background-color: yellow;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    text-align: justify;
+    
+}
+p.enlaces{
+    width: 80%;
+    margin: auto;
+    color: brown;
+    text-shadow:1px 1px black;
+}
+h2.enlaces{
+    text-align: center;
+    letter-spacing: 0.5em;
+    color: blue;
+    text-shadow:2px 2px black;
+    margin: auto;
+    width: 50%;
+}
+body.tablas{
+    background-color: gold;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: fantasy;
+    letter-spacing: 0.3em;
+}
+body.tablascomb{
+    background-color: gold;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;
+    letter-spacing: 0.3em;
+}
+body.tablap1{
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
+}
+body.tablap2{
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    background-color: gold;    
+}
+h1.tablap2{
+    letter-spacing: 0.3em;
+    color: red;
+    text-shadow:2px 2px black;
+}
+body.tablap3{
+    background-color: sandybrown;
+    text-align: center;
+    font-size: 20px;
+    font-family: cursive;    
+}
+h1.tablap3{
+    letter-spacing: 0.3em;
+    color: rgb(61, 15, 15);
+    text-shadow:2px 2px black;
+}
+table.tablap3{
+    background-color: yellow;
+    text-align: center;
+}
+h2.formulario{
+    letter-spacing: 0.3em;
+    color: rgb(61, 15, 15);
+    text-shadow:2px 2px black;
+    text-align: center;
+    font-family: fantasy;
+}
+form.formulario{
+    width: 50%;
+    background-color: rgb(63, 147, 243);
+    border-style: solid;
+    border-color: rgb(20, 20, 20);
+    margin: auto;
+    border-radius: 5%;
+    font-size: 20px;
+    padding-left: 50px;
+    height: 660px;
+    margin-top: 50px;
+    font-family: cursive;
+}
+form.formulario2{
+    width: 50%;
+    background-color: rgb(219, 111, 10);
+    border-style: solid;
+    border-color: rgb(24, 23, 23);
+    margin: auto;
+    border-radius: 5%;
+    font-size: 20px;    
+    height: 500px;
+    margin-top: 50px;
+    font-family: fantasy;
+}
+input[type=text]
+{
+    background-color: orange;
+    border: none;
+    border-bottom: 2px solid red;
+    width: 50%;
+    padding: 10px 20px;
+}
+input[type=password]
+{
+    background-color: orange;
+    border: none;
+    border-bottom: 2px solid red;
+    width: 50%;
+    padding: 10px 20px;
+}
+#boton
+{
+    color: red;
+    background-color:black;    
+}
+h1.formulario2{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    text-shadow:2px 2px black;
+    text-align: center;
+    font-family: cursive;
+}
+form.formulario3{
+    width: 50%;
+    background-color: rgb(235, 250, 19);
+    border-style: solid;
+    border-color: rgb(24, 23, 23);
+    margin: auto;
+    border-radius: 5%;
+    font-size: 20px;    
+    height: 950px;
+    margin-top: 50px;
+    font-family: fantasy;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+body.formulario3{
+    background-color: tomato;
+    
+}
+form.formulariop1{
+    width: 50%;
+    background-color: rgb(17, 19, 1);
+    border-style: solid;
+    border-color: rgb(187, 11, 11);
+    margin: auto;
+    border-radius: 5%;
+    font-size: 20px;    
+    height: 400px;
+    margin-top: 50px;
+    font-family: cursive;
+    padding-left: 100px;    
+    padding-top: 20px;
+    color: white;    
+}
+form.formulariop2{
+    background-color: orangered;
+    width: 50%;    
+    border-style: solid;
+    border-color: rgb(24, 23, 23);
+    margin: auto;
+    border-radius: 15%;
+    font-size: 20px;    
+    height: 550px;
+    margin-top: 50px;
+    font-family: fantasy;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+h1.formulariop2{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    text-shadow:2px 2px black;
+    text-align: center;
+    font-family: cursive;
+}
+form.formulario33{
+    width: 50%;
+    background-color: rgb(95, 5, 5);
+    border-style: solid;
+    border-color: rgb(20, 20, 20);
+    margin: auto;
+    border-radius: 5%;
+    font-size: 20px;
+    padding-left: 50px;
+    height: 660px;
+    margin-top: 50px;
+    font-family: cursive;
+    color: white;
+}
+h2.formulario333{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    text-shadow:2px 2px black;
+    text-align: center;
+    font-family: cursive;
+}
+body.inicio{
+    font-family: cursive;
+    font-size: 15px;
+    text-shadow:2px 2px black;
+    color: blue;    
+}
+img{
+    border-style: solid;
+    border-color: black;
+    letter-spacing: 0.3em;
+}
